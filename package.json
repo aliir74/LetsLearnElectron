@@ -1,5 +1,5 @@
 {
-  "name": "logger",
+  "name": "BLogger",
   "version": "0.0.1",
   "main": "main.js",
   "dependencies": {},
@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Ali Irani",
   "license": "ISC",
   "description": ""
 }
